@@ -1,0 +1,10 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "author": "Andrey Alexeev <alexeev.andrey.a@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "assemble": "^0.6.3",
+    "gulp-extname": "^0.2.0"
+  }
+}
